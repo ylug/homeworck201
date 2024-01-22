@@ -1,0 +1,33 @@
+[
+  {
+    "model": "catalog.category",
+    "pk": 1,
+    "fields": {
+      "name_category": "Смартфон",
+      "description_category": "Смартфоны и фототехника"
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 2,
+    "fields": {
+      "name_category": "Фен",
+      "description_category": "Красота и здоровье"
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 3,
+    "fields": {
+      "name_category": "Холодильник",
+      "description_category": "Бытовая техника"
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 4,
+    "fields": {
+      "name_category": "Игровые приставки",
+      "description_category": "Развлечение и ТВ"
+    }
+  }]
